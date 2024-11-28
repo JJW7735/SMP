@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "951854646259",
+    "project_id": "smp-1-3a26e",
+    "storage_bucket": "smp-1-3a26e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951854646259:android:1ca919bf8e02fc87a90886",
+        "android_client_info": {
+          "package_name": "com.example.chatting_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZYx77zvKIqFyYtZiArt4fcUnU2PG1hAg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
